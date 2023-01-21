@@ -125,12 +125,6 @@ public class StepDefinition {
 
 
 }
-//echo "# com.JDBCt-105" >> README.md
-//        git init
-//        git add README.md
-//        git commit -m "first commit"
-//        git branch -M main
-//        git remote add origin git@github.com:alicirecep/com.JDBCt-105.git
-//        git push -u origin main
+
 
 
